@@ -3,8 +3,8 @@
   <PropertyGroup>
 	<!-- General -->
     <AssemblyName>ZenMvvm.Helpers.Core</AssemblyName>
-    <Description></Description>
-    <Copyright>Copyright 2020 Guy Antoine</Copyright>
+    <Description>A collection of Helpers that are common to more than one of the ZenMvvm.Helpers modules.</Description>
+    <Copyright>Copyright 2020 ZenMvvm</Copyright>
     <Authors>Guy Antoine and contributors</Authors>
     <NeutralLanguage>en-GB</NeutralLanguage>
 
